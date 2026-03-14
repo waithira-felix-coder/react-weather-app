@@ -12,6 +12,11 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 - ⚡ Built with TypeScript for type safety
 - 🎨 Beautiful gradient UI with weather-themed icons
 
+## Screenshots
+
+<!-- Add screenshots here -->
+<!-- Example: ![Weather App Screenshot](screenshots/app-screenshot.png) -->
+
 ## Tech Stack
 
 - **Frontend**: React 19, TypeScript
