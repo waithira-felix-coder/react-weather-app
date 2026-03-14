@@ -4,13 +4,13 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 
 ## Features
 
-- 🌤️ Real-time weather data from WeatherAPI
-- 📱 Fully responsive design for all devices
-- 🌙 Smart icon switching (sunny/cloudy based on day/night)
-- 🔍 City search with geolocation support
-- 📊 Hourly weather forecast
-- ⚡ Built with TypeScript for type safety
-- 🎨 Beautiful gradient UI with weather-themed icons
+- Real-time weather data from WeatherAPI
+- Fully responsive design for all devices
+- Smart icon switching (sunny/cloudy based on day/night)
+- City search with geolocation support
+- Hourly weather forecast
+- Built with TypeScript for type safety
+- Beautiful gradient UI with weather-themed icons
 
 ## Screenshots
 
