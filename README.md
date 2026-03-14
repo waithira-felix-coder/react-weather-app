@@ -14,8 +14,8 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
-<!-- Example: ![Weather App Screenshot](screenshots/app-screenshot.png) -->
+![Weather App Main View](screenshots/weatherApp.png)
+![Weather App Additional View](screenshots/weatherapp2.png)
 
 ## Tech Stack
 
