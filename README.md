@@ -128,6 +128,4 @@ export default defineConfig([
   },
 ])
 ```
-=======
-# react-weather-app
->>>>>>> 0b0162114b5b4c5f7e57b2a784d6dc657422327c
+
